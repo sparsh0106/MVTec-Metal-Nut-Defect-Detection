@@ -1,0 +1,7 @@
+path: /run/media/sparsh/CaptainSlow/Programming Stuff/Programming Stuff/Code _n_ Stuff/All Projects/All Projects/mvtec/outputs/task2_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: defect

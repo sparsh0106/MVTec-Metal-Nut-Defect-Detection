@@ -1,0 +1,19 @@
+# Raw MVTec AD Dataset (excluded from repository)
+metal_nut/
+metal_nut.zip
+
+# Python / Jupyter cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Explicitly keep project deliverables, outputs, runs, weights, notebook, and models (.pt / .onnx)
+!outputs/**
+!runs/**
+!weights/**
+!tasks.ipynb
+!*.pt
+!*.onnx
